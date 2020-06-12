@@ -96,7 +96,7 @@ url(&quot;图片1微信图库URL&quot;);">
 2. 右键点击网页空白处，选择 `Inspect` 。
 3. 打开 Inspect 后，用 Inspect 左上角的选择器选中最开始输入的内容，右键点击 <p> 标签，选择 `Edit as HTML`
 4. 贴入代码（Flex 或 SVG），就能看到效果。
-![](https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/u1u09.png)
+![](https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/666cd.jpg)
 
 ## Flex Layout + SVG + Chrome Inspect 实现苹果动效
 
@@ -107,4 +107,4 @@ url(&quot;图片1微信图库URL&quot;);">
 ![](https://chendongze.oss-cn-shanghai.aliyuncs.com/ipic/flm9g.gif)
 
 - - - - - 
-为了让大家方便使用，我已经把代码整理好提交到了 Github，点击 [完整源码](https://github.com/netpi/wechat-layout) 即可获得**。
+为了让大家方便使用，我已经把代码整理好提交到了 Github，点击 [完整源码](https://github.com/netpi/wechat-layout) 即可获得。
